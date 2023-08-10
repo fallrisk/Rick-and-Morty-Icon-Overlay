@@ -1,0 +1,23 @@
+[Icon Theme]
+Name=Rick-and-Morty-Icon-Overlay
+Comment=Overlay of current theme with some Rick and Morty!
+Inherits=WhiteSur-green-light,hicolor
+Example=folder
+
+# Directory list
+Directories=48x48/apps,32x32/apps,256x256/apps
+
+[48x48/apps]
+Size=48
+Type=Fixed
+Context=Applications
+
+[32x32/apps]
+Size=32
+Type=Fixed
+Context=Applications
+
+[256x256/apps]
+Size=256
+Type=Fixed
+Context=Applications
